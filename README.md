@@ -29,7 +29,7 @@ Currently, I'm going deeper into **penetration testing, Active Directory securit
 * 💻 Most of my learning ends up becoming a script, note, lab, or project
 * 🚀 Always building, testing, breaking, and learning
 
-###*--+/* Find Me
+### Find Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/jubairbd/)
 * 📝 [Medium](https://medium.com/@muhammadjubairsec)
