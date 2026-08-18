@@ -10,7 +10,7 @@ I enjoy turning what I learn into **scripts, automation, security notes, labs, a
 
 Currently, I'm going deeper into **penetration testing, Active Directory security, vulnerability research, reconnaissance, automation, and offensive security**.
 
-# What I Do
+### What I Do
 
 * 🔐 Web Application & API Security
 * 🌐 Network & Infrastructure Pentesting
@@ -21,7 +21,7 @@ Currently, I'm going deeper into **penetration testing, Active Directory securit
 * 🧪 CTFs, Labs & Security Research
 * 📚 Continuous Hands-on Learning
 
-# Fun Facts
+### Fun Facts
 
 * 🐧 Kali Linux is one of my favorite environments
 * 🔍 I enjoy finding things that aren't supposed to be found
@@ -29,7 +29,7 @@ Currently, I'm going deeper into **penetration testing, Active Directory securit
 * 💻 Most of my learning ends up becoming a script, note, lab, or project
 * 🚀 Always building, testing, breaking, and learning
 
-# Find Me
+###*--+/* Find Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/jubairbd/)
 * 📝 [Medium](https://medium.com/@muhammadjubairsec)
