@@ -16,11 +16,13 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 
 ## Index
 
-### 🗂️ Active Directory
+### Active Directory
 | Writeup | What it covers |
 |---|---|
-| [AD Enumeration & Attack Path Mapping with BloodHound](./Active-Directory/AD-Enumeration-BloodHound.md) | Full enumeration-to-privilege-escalation flow in a lab AD environment using BloodHound CE; identifying attack paths via ACL abuse and Kerberos misconfigurations. |
-| [Exploiting Active Directory — TryHackMe](./Active-Directory/THM-Exploiting-AD.md) | Structured walkthrough connecting enumeration, lateral movement, and privilege escalation techniques into a single attack chain. |
+| [Lateral Movement and Pivoting](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Lateral%20Movement%20and%20Pivoting) | Hands-on lab work covering lateral movement across compromised hosts and network pivoting techniques — practically executed using tools like Impacket, CrackMapExec, and Chisel/Ligolo for tunneling into segmented networks, with each technique tested and documented step-by-step in a controlled environment. |
+|[Active Directory Exploitation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Exploitation) | Structured walkthrough connecting enumeration, lateral movement, and privilege escalation techniques into a single attack chain. |
+|[Active Directory CVE Exploitation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20CVE%20Exploitation) | Writeups covering exploitation of known CVEs affecting Active Directory environments — walking through vulnerability identification, proof-of-concept exploitation, and the underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
+|[Active Directory Persistence](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Persistence) | Techniques for maintaining long-term access in a compromised AD environment — covering methods like Golden/Silver Ticket abuse, DCSync, and AdminSDHolder manipulation, along with detection and remediation notes.Underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
 
 ### 🕸️ Web Application Security
 | Writeup | What it covers |
