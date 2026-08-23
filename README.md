@@ -1,4 +1,4 @@
-# Penetration Testing -- Writeups & Walkthroughs
+# Penetration Testing — Hands-On Writeups & Attack Methodology
 
 A documented record of hands-on penetration testing work: methodology-driven write-ups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
 
