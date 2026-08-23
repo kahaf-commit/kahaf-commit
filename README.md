@@ -1,18 +1,17 @@
----
-
 # Penetration Testing -- Writeups & Walkthroughs
 
-A documented record of hands-on penetration testing work: methodology-driven writeups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
+A documented record of hands-on penetration testing work: methodology-driven write-ups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
 
 **Author:** [MD JUBAIR HOSSAIN](https://www.jubairsec.com) · `Penetration Tester`   
 **Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd)
 
 **Focus areas:** Active Directory Security · Web Application Pentesting · Red Team Infrastructure (C2) · Vulnerability Chaining
 
+---
 
 ## Why this repo
 
-Certifications validate knowledge; this repo validates *application*. Every writeup here follows a consistent, engagement-style methodology — recon, exploitation, impact, and remediation — the same structure expected in a professional penetration test report. This is meant to demonstrate readiness for practical, exam-style assessments (e.g. CPENT) as much as it documents a learning path.
+Certifications validate knowledge; this repo validates *application*. Every write-up here follows a consistent, engagement-style methodology — recon, exploitation, impact, and remediation — the same structure expected in a professional penetration test report. This is meant to demonstrate readiness for practical, exam-style assessments (e.g., CPENT) as much as it documents a learning path.
 
 
 ## Index
@@ -36,7 +35,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 |---|---|
 |[Adaptix C2 Framework](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Adaptix%20C2%20Framework/Adaptix%20C2.md)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
 
-<!--### 🧩 CTF & Guided Labs (TryHackMe / HackTheBox)
+<!--### 🧩 CTF & Guided Labs (Twrite-upe / HackTheBox)
 | Writeup | What it covers |
 |---|---|
 | [Room & machine writeups](./TryHackMe/) | Individual room/machine walkthroughs — enumeration methodology, exploitation steps, and takeaways per target. |
@@ -61,8 +60,8 @@ This mirrors the recon → exploitation → reporting structure used in real pen
 
 ## Related work
 
-- Setup guides and technical deep-dives are also published on Medium, including BloodHound CE deployment on Kali via Docker and AdaptixC2 configuration.
-- Active on TryHackMe working through Active Directory and red team learning paths.
+- Setup guides and technical deep dives are also published on Medium, including BloodHound CE deployment on Kali via Docker and AdaptixC2 configuration.
+- Active on TryHackMe, working through Active Directory and red team learning paths.
 
 ## Scope & Ethics
 
