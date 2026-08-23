@@ -1,3 +1,5 @@
+---
+
 # Penetration Testing -- Writeups & Walkthroughs
 
 A documented record of hands-on penetration testing work: methodology-driven writeups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
@@ -7,13 +9,11 @@ A documented record of hands-on penetration testing work: methodology-driven wri
 
 **Focus areas:** Active Directory Security · Web Application Pentesting · Red Team Infrastructure (C2) · Vulnerability Chaining
 
----
 
 ## Why this repo
 
 Certifications validate knowledge; this repo validates *application*. Every writeup here follows a consistent, engagement-style methodology — recon, exploitation, impact, and remediation — the same structure expected in a professional penetration test report. This is meant to demonstrate readiness for practical, exam-style assessments (e.g. CPENT) as much as it documents a learning path.
 
----
 
 ## Index
 
