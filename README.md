@@ -2,8 +2,9 @@
 
 A documented record of hands-on penetration testing work: methodology-driven writeups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
 
-**Author:** [MD Jubair Hossain](https://www.linkedin.com/in/jubairbd) · `Penetration Tester`   
+**Author:** [MD Jubair Hossain](https://www.jubairsec.com) · `Penetration Tester`   
 **Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd)
+
 **Focus areas:** Active Directory Security · Web Application Pentesting · Red Team Infrastructure (C2) · Vulnerability Chaining
 
 ---
