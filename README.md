@@ -3,8 +3,7 @@
 A documented record of hands-on penetration testing work: methodology-driven writeups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
 
 **Author:** MD Jubair Hossain — Penetration Tester
-**LinkedIn:** https://www.linkedin.com/in/jubairbd
-**Medium:** (add your Medium profile URL)
+**Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd)
 **Focus areas:** Active Directory Security · Web Application Pentesting · Red Team Infrastructure (C2) · Vulnerability Chaining
 
 ---
@@ -26,7 +25,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 ### 🕸️ Web Application Security
 | Writeup | What it covers |
 |---|---|
-| [XXE → SSRF Chain: From Parser Flaw to Internal Network Access](./Web-Exploitation/XXE-SSRF-Chain.md) | Chaining an XML External Entity injection with SSRF to bypass perimeter controls, reach internal APIs, and access cloud instance metadata (AWS IMDSv1). Includes root-cause analysis and remediation (DTD/entity disabling, network segmentation). |
+| [XXE → SSRF Chain: From Parser Flaw to Internal Network Access](./Writeups-and-Walkthroughs/Web Application Pentest/Web Application Pentest 3a9321d15a7380c89500f985aa6ef3f1.md) | Chaining an XML External Entity injection with SSRF to bypass perimeter controls, reach internal APIs, and access cloud instance metadata (AWS IMDSv1). Includes root-cause analysis and remediation (DTD/entity disabling, network segmentation). |
 
 ### 🎯 Red Team / C2 Infrastructure
 | Writeup | What it covers |
