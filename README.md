@@ -1,4 +1,4 @@
-# Penetration Testing — Writeups & Walkthroughs
+# Penetration Testing -- Writeups & Walkthroughs
 
 A documented record of hands-on penetration testing work: methodology-driven writeups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
 
@@ -20,7 +20,8 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 | Writeup | What it covers |
 |---|---|
 | [Lateral Movement and Pivoting](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Lateral%20Movement%20and%20Pivoting) | Hands-on lab work covering lateral movement across compromised hosts and network pivoting techniques — practically executed using tools like Impacket, CrackMapExec, and Chisel/Ligolo for tunneling into segmented networks, with each technique tested and documented step-by-step in a controlled environment. |
-|[Active Directory Exploitation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Exploitation) | Structured walkthrough connecting enumeration, lateral movement, and privilege escalation techniques into a single attack chain. |
+|[Exploiting Active Directory](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Exploiting%20Active%20Directory) | Hands-on lab work completed on TryHackMe, covering practical exploitation of Active Directory environments - enumeration, attack path identification, and privilege escalation executed and documented step-by-step in a guided lab setting. |
+|[Active Directory Exploitation Notes](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Exploitation) | Structured walkthrough connecting enumeration, lateral movement, and privilege escalation techniques into a single attack chain. |
 |[Active Directory CVE Exploitation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20CVE%20Exploitation) | Writeups covering exploitation of known CVEs affecting Active Directory environments — walking through vulnerability identification, proof-of-concept exploitation, and the underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
 |[Active Directory Persistence](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Persistence) | Techniques for maintaining long-term access in a compromised AD environment — covering methods like Golden/Silver Ticket abuse, DCSync, and AdminSDHolder manipulation, along with detection and remediation notes.Underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
 
