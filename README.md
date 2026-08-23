@@ -25,7 +25,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 ### 🕸️ Web Application Security
 | Writeup | What it covers |
 |---|---|
-| [XXE → SSRF Chain: From Parser Flaw to Internal Network Access](./Writeups-and-Walkthroughs/Web Application Pentest/Web Application Pentest 3a9321d15a7380c89500f985aa6ef3f1.md) | Chaining an XML External Entity injection with SSRF to bypass perimeter controls, reach internal APIs, and access cloud instance metadata (AWS IMDSv1). Includes root-cause analysis and remediation (DTD/entity disabling, network segmentation). |
+| [Web Application Pentest](./Web%20Application%20Pentest/Web%20Application%20Pentest.md)| Chaining an XML External Entity injection with SSRF to bypass perimeter controls, reach internal APIs, and access cloud instance metadata (AWS IMDSv1). Includes root-cause analysis and remediation (DTD/entity disabling, network segmentation). |
 
 ### 🎯 Red Team / C2 Infrastructure
 | Writeup | What it covers |
