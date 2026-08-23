@@ -25,7 +25,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 ### 🕸️ Web Application Security
 | Writeup | What it covers |
 |---|---|
-|[Web Application Pentest](./Writeups-and-Walkthroughs/Web%20Application%20Pentest/Web%20Application%20Pentest)| Methodology and findings from web application penetration testing exercises, including vulnerability identification and exploitation. |
+|[Web Application Pentest](./Writeups-and-Walkthroughs/Web%20Application%20Pentest/Web%20Application%20Pentest.md)| Methodology and findings from web application penetration testing exercises, including vulnerability identification and exploitation. |
 
 ### 🎯 Red Team / C2 Infrastructure
 | Writeup | What it covers |
