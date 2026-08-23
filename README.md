@@ -25,7 +25,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 ### 🕸️ Web Application Security
 | Writeup | What it covers |
 |---|---|
-| [Web Application Pentest]([./(https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Web%20Application%20Pentest/Web%20Application%20Pentest.md)| Chaining an XML External Entity injection with SSRF to bypass perimeter controls, reach internal APIs, and access cloud instance metadata (AWS IMDSv1). Includes root-cause analysis and remediation (DTD/entity disabling, network segmentation). |
+| | [Web Application Pentest](./Web%20Application%20Pentest/Web%20Application%20Pentest.md) | Methodology and findings from web application penetration testing exercises, including vulnerability identification and exploitation. || Chaining an XML External Entity injection with SSRF to bypass perimeter controls, reach internal APIs, and access cloud instance metadata (AWS IMDSv1). Includes root-cause analysis and remediation (DTD/entity disabling, network segmentation). |
 
 ### 🎯 Red Team / C2 Infrastructure
 | Writeup | What it covers |
