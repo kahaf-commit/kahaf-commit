@@ -29,17 +29,17 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 |---|---|
 |[Web Application Pentest](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Web%20Application%20Pentest/Web%20Application%20Pentest.md)| Methodology and findings from web application penetration testing exercises, including vulnerability identification and exploitation. |
 
-### 🎯 Red Team / C2 Infrastructure
+### Red Team / C2 Infrastructure
 | Writeup | What it covers |
 |---|---|
 |[Adaptix C2 Framework](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Adaptix%20C2%20Framework/Adaptix%20C2.md)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
 
-### 🧩 CTF & Guided Labs (TryHackMe / HackTheBox)
+<!--### 🧩 CTF & Guided Labs (TryHackMe / HackTheBox)
 | Writeup | What it covers |
 |---|---|
 | [Room & machine writeups](./TryHackMe/) | Individual room/machine walkthroughs — enumeration methodology, exploitation steps, and takeaways per target. |
 
----
+- -->
 
 ## Methodology used across every writeup
 
