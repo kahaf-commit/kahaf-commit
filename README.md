@@ -3,7 +3,7 @@
 A documented record of hands-on penetration testing work: methodology-driven write-ups covering Active Directory exploitation, web application security, and red team infrastructure — built to reflect real-world engagement standards, not just CTF completions.
 
 **Author:** [MD JUBAIR HOSSAIN](https://www.jubairsec.com) · `Penetration Tester`   
-**Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd) · [TryHackMe](https://tryhackme.com/p/jubairtuhin))
+**Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd) · [TryHackMe](https://tryhackme.com/p/jubairtuhin)
 
 **Focus areas:** Active Directory Security · Web Application Pentesting · Red Team Infrastructure (C2) · Vulnerability Chaining
 
