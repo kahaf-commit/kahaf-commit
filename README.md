@@ -30,7 +30,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 ### 🎯 Red Team / C2 Infrastructure
 | Writeup | What it covers |
 |---|---|
-| [AdaptixC2 — Installation, Configuration & Operational Notes](./Adaptix%20C2%20Framework)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
+|[Adaptix C2 Framework](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Adaptix%20C2%20Framework/Adaptix%20C2.md)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
 
 ### 🧩 CTF & Guided Labs (TryHackMe / HackTheBox)
 | Writeup | What it covers |
