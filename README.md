@@ -19,11 +19,11 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 ### Active Directory
 | Writeup | What it covers |
 |---|---|
-| [Lateral Movement and Pivoting](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Lateral%20Movement%20and%20Pivoting) | Hands-on lab work covering lateral movement across compromised hosts and network pivoting techniques — practically executed using tools like Impacket, CrackMapExec, and Chisel/Ligolo for tunneling into segmented networks, with each technique tested and documented step-by-step in a controlled environment. |
-|[Exploiting Active Directory](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Exploiting%20Active%20Directory) | Hands-on lab work completed on TryHackMe, covering practical exploitation of Active Directory environments - enumeration, attack path identification, and privilege escalation executed and documented step-by-step in a guided lab setting. |
-|[Active Directory Exploitation Notes](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Exploitation) | Structured walkthrough connecting enumeration, lateral movement, and privilege escalation techniques into a single attack chain. |
-|[Active Directory CVE Exploitation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20CVE%20Exploitation) | Writeups covering exploitation of known CVEs affecting Active Directory environments — walking through vulnerability identification, proof-of-concept exploitation, and the underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
-|[Active Directory Persistence](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Persistence) | Techniques for maintaining long-term access in a compromised AD environment — covering methods like Golden/Silver Ticket abuse, DCSync, and AdminSDHolder manipulation, along with detection and remediation notes.Underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
+| [Lateral Movement and Pivoting](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Lateral%20Movement%20and%20Pivoting/Lateral%20Movement%20and%20Pivoting.md) | Hands-on lab work covering lateral movement across compromised hosts and network pivoting techniques — practically executed using tools like Impacket, CrackMapExec, and Chisel/Ligolo for tunneling into segmented networks, with each technique tested and documented step-by-step in a controlled environment. |
+| [Exploiting Active Directory](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Exploiting%20Active%20Directory/Exploiting%20AD.md) | Hands-on lab work completed on TryHackMe, covering practical exploitation of Active Directory environments - enumeration, attack path identification, and privilege escalation executed and documented step-by-step in a guided lab setting. |
+| [Active Directory Exploitation Notes](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Active%20Directory%20Exploitation) | Structured walkthrough connecting enumeration, lateral movement, and privilege escalation techniques into a single attack chain. |
+| [Active Directory CVE Exploitation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Active%20Directory%20CVE%20Exploitation/CVE%20Exploitation.md) | Writeups covering exploitation of known CVEs affecting Active Directory environments — walking through vulnerability identification, proof-of-concept exploitation, and the underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
+| [Active Directory Persistence](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Active%20Directory%20Persistence/AD%20Persistence.md) | Techniques for maintaining long-term access in a compromised AD environment — covering methods like Golden/Silver Ticket abuse, DCSync, and AdminSDHolder manipulation, along with detection and remediation notes.Underlying misconfiguration or patch gap that made each CVE exploitable, along with remediation guidance. |
 
 ### Web Application Security
 | Writeup | What it covers |
@@ -42,7 +42,7 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 
 - -->
 
-## Methodology used across every writeup
+## Methodology used across every write-up
 
 1. **Scope & Objective** — target, environment, and goal
 2. **Reconnaissance & Enumeration** — tooling, service discovery, attack surface mapping
