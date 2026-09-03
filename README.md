@@ -41,6 +41,16 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 |[Adaptix C2 Framework](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Adaptix%20C2%20Framework/Adaptix%20C2.md)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
 [Initial Access](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Initial%20Access/Initial%20Access.md) | Hands-on notes on gaining initial foothold in target environments - covering common entry vectors like exposed services, weak credentials, phishing simulation payloads, and public exploit adaptation, documented step-by-step from recon through first shell |
 
+### Reverse Engineering
+| Writeup | What it covers |
+|---|---|
+|[Reverse Engineering](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Reverse%20Engineering)| Hands-on notes on reverse engineering binaries — covering static and dynamic analysis, disassembly, and identifying exploitable logic or vulnerabilities in compiled programs. |
+
+### IoT Hacking
+| Writeup | What it covers |
+|---|---|
+|[IoT Hacking](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/IoT%20Hacking)| Hands-on notes on IoT and embedded device security — covering firmware extraction and analysis, hardware interfacing, and identifying common vulnerabilities in connected devices. |
+
 <!--### 🧩 CTF & Guided Labs (Twrite-upe / HackTheBox)
 | Writeup | What it covers |
 |---|---|
