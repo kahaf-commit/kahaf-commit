@@ -5,7 +5,7 @@ A documented record of hands-on penetration testing work: methodology-driven wri
 **Author:** [MD JUBAIR HOSSAIN](https://www.jubairsec.com) · `Penetration Tester`   
 **Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd) · [TryHackMe](https://tryhackme.com/p/jubairtuhin)
 
-**Focus areas:** Active Directory Security · Web Application Pentesting · Red Team Infrastructure (C2) · Vulnerability Chaining
+**Focus areas:** Internal Network Security Testing · External Network Security Testing · Web Application Pentesting · API Testing
 
 ---
 
