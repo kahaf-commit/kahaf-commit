@@ -11,12 +11,12 @@ A documented record of hands-on penetration testing work: methodology-driven wri
 
 ## Why this repo
 
-Certifications validate knowledge; this repo validates *application*. Every write-up here follows a consistent, engagement-style methodology , recon, exploitation, impact, and remediation — the same structure expected in a professional penetration test report. This is meant to demonstrate readiness for practical, exam-style assessments (e.g., CPENT) as much as it documents a learning path.
+This repo proves the application. Every write-up follows a real pentest report structure — recon, exploitation, impact, remediation — a working record of how I actually break down a target, not just notes about it.
 
 
 ## Index
 
-### Active Directory
+### Network Testing
 | Writeup | What it covers |
 |---|---|
 | [Lateral Movement and Pivoting](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Lateral%20Movement%20and%20Pivoting/Lateral%20Movement%20and%20Pivoting.md) | Hands-on lab work covering lateral movement across compromised hosts and network pivoting techniques - practically executed using tools like Impacket, CrackMapExec, and Chisel/Ligolo for tunneling into segmented networks, with each technique tested and documented step-by-step in a controlled environment. |
@@ -34,6 +34,12 @@ Certifications validate knowledge; this repo validates *application*. Every writ
 | Writeup | What it covers |
 |---|---|
 |[Web Application Pentest](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Web%20Application%20Pentest/Web%20Application%20Pentest.md)| Methodology and findings from web application penetration testing exercises, including vulnerability identification and exploitation. |
+
+### API Security
+| Writeup | What it covers |
+|---|---|
+|[API Testing](https://github.com/kahaf-commit/API301/blob/main/README.md)
+| Main index for the API301 repository, covering the methodology and scope for hands-on API security testing work. |
 
 ### Red Team / C2 Infrastructure
 | Writeup | What it covers |
