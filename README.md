@@ -38,8 +38,7 @@ This repo proves the application. Every write-up follows a real pentest report s
 ### API Security
 | Writeup | What it covers |
 |---|---|
-|[API Testing](https://github.com/kahaf-commit/API301/blob/main/README.md)
-| Main index for the API301 repository, covering the methodology and scope for hands-on API security testing work. |
+|[API Testing](https://github.com/kahaf-commit/API301/blob/main/README.md)| Main index for the API301 repository, covering the methodology and scope for hands-on API security testing work.|
 
 ### Red Team / C2 Infrastructure
 | Writeup | What it covers |
