@@ -61,7 +61,7 @@ This repo proves the application. Every write-up follows a real pentest report s
 |---|---|
 | [Room & machine writeups](./TryHackMe/) | Individual room/machine walkthroughs — enumeration methodology, exploitation steps, and takeaways per target. |
 
-- -->
+- 
 
 ## Methodology used across every write-up
 
@@ -83,6 +83,7 @@ This mirrors the recon → exploitation → reporting structure used in real pen
 
 - Setup guides and technical deep dives are also published on Medium, including BloodHound CE deployment on Kali via Docker and AdaptixC2 configuration.
 - Active on TryHackMe, working through Active Directory and red team learning paths.
+-->
 
 ## Scope & Ethics
 
