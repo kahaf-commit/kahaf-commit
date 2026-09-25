@@ -1,12 +1,8 @@
-### Hi, I'm Jubair. 👋
+Penetration tester who enjoys poking at networks and applications that were never meant to be broken.
 
-Penetration tester focused on breaking things properly — internal and external network testing, Active Directory attack paths, web application security, and API exploitation.
+Lately, I have been spending most of my time exploring Active Directory attack paths and API security. This includes AD persistence, privilege escalation chains, and testing against the OWASP API Top 10.
 
-I spend most of my time chaining vulnerabilities end-to-end: enumeration → exploitation → privilege escalation → remediation, documented the way a real engagement report would be.
-
-**Currently exploring:** C2 infrastructure, Active Directory persistence techniques, and API security testing against the OWASP API Top 10.
-
----
+--
 
 #### Projects
 
@@ -14,12 +10,12 @@ I spend most of my time chaining vulnerabilities end-to-end: enumeration → exp
 - **[API301](https://github.com/kahaf-commit/API301)** — API security testing notes mapped to the OWASP API Top 10 — authentication bypasses, BOLA, injection, and rate-limiting abuse.
 - **[Scripts](https://github.com/kahaf-commit/Scripts)** — Utilities for recon, enumeration, and workflow automation.
 
----
+--
 
 #### Currently practicing on
 
 TryHackMe · PortSwigger Web Security Academy · HackTheBox — building and breaking lab environments to stress-test what I learn.
 
----
+--
 
 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/jubairbd)
