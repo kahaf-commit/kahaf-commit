@@ -2,7 +2,7 @@ Penetration tester who enjoys poking at networks and applications that were neve
 
 Lately, I have been spending most of my time on internal and external network penetration testing, web application security, and API security — including privilege escalation chains, C2 infrastructure, and testing against the OWASP API Top 10.0.
 
-----
+<hr size="10">
 ####  Projects
 
 | Project | What it does |
