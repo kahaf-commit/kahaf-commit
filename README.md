@@ -2,11 +2,12 @@ Penetration tester who enjoys poking at networks and applications that were neve
 
 Lately, I have been spending most of my time on internal and external network penetration testing, web application security, and API security — including privilege escalation chains, C2 infrastructure, and testing against the OWASP API Top 10.
 
-####  Projects
+### Projects
 
 | Project | What it does |
 |---|---|
 | **[Writeups-and-Walkthroughs](https://github.com/kahaf-commit/Writeups-and-Walkthroughs)** | Documents Active Directory exploitation, web application pentesting, and red team lab work using a recon-to-remediation methodology |
+| **[Web-Application-Penetration-Testing](https://github.com/kahaf-commit/Web-Application-Penetration-Testing)** | Walkthrough repo covering PortSwigger Web Security Academy labs end-to-end, paired with real-world vulnerability breakdowns and bug bounty insights |
 | **[API301](https://github.com/kahaf-commit/API301)** | API security testing notes mapped to the OWASP API Top 10 — auth bypasses, BOLA, injection, and rate-limiting abuse |
 | **[Scripts](https://github.com/kahaf-commit/Scripts)** | Utilities for reconnaissance, enumeration, and pentest workflow automation |
 
